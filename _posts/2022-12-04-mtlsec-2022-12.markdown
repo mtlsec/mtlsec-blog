@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Mtlsec 2022 h0h0h0 edition"
+tags: irl
+date_start: 2022-12-09 18:00:00 EST
+#time_start:
+location: |
+  Secret location 
+  Emplacement secret
+post_image: xmas-song-unix.jpeg
+#iscancelled: true
+isevent: true
+---
+Mtlsec 2022 h0h0h0 edition
+
+Come chill with others in a private atmosphere, and enjoy some pinpall. 
+Reservation only as space is limited. 
+BYOB. 
+
+Reservation per email at mtlsec-reserve "at" recon.cx
+
+
+Venez vous détendre avec d'autres dans une atmosphère privée et profiter de pinpall. Réservation uniquement car places limitées. 
+Apportez vos boissons.
+
+Reservation par email a mtlsec-reserve "at" recon.cx
