@@ -12,7 +12,7 @@ location: |
   1076 Rue de Bleury suite 001
   Montreal, QC, H2Z 1N2
   Metro: Place-d'Armes Place-d'Armes
-post_image: always-dns.jpg
+post_image: always_dns.jpg
 #iscancelled: false
 isevent: true
 ---
