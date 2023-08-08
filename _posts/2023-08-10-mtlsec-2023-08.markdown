@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mtlsec 2023-08 (Aout/August)"
-tags: 
+tags: irl
 date_start: 2023-08-10 18:00:00 EST
 #time_start:
 location: |
