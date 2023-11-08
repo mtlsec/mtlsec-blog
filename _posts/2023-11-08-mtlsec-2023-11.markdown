@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Mtlsec 2023-01 (Janvier/January)"
+tags: irl
+date_start: 2023-01-12 18:00:00 EST
+#time_start:
+location: |
+  Brutopia Brew Pub
+  Reservations "MTLSEC"
+  1219 Crescent st., Montreal, QC H3G 1B1
+  Metro: Lucien l'Allier / Guy-Concordia
+post_image: building-rj11.jpg
+#iscancelled: true
+isevent: true
+---
