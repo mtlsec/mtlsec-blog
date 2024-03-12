@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mtlsec 2024-03 (Mars/March)"
-tags: irl
+tags: 
 date_start: 2024-03-14 18:00:00 EST
 #time_start:
 location: |
