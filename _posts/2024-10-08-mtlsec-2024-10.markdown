@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Mtlsec 2024-10 (Octobre/October)"
+tags: 
+date_start: 2024-10-10 18:00:00 EST
+#time_start:
+location: |
+  Brutopia Brew Pub
+  Reservations "MTLSEC"
+  1219 Crescent st., Montreal, QC H3G 1B1
+  Metro: Lucien l'Allier / Guy-Concordia
+post_image: bird_policy.jpg
+#iscancelled: true
+isevent: true
+---
