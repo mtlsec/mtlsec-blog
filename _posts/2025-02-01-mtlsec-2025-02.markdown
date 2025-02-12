@@ -5,11 +5,14 @@ tags:
 date_start: 2025-02-13 18:00:00 EST
 #time_start:
 location: |
+Due to the upcoming snow storm and likely travel difficulties, we have decided to cancel February 2025's meeting.
+A cause de la tempête de neige annoncée et les difficultés de déplacement, nous avons décidé de canceller la rencontre de février 2025.
+
   Brutopia Brew Pub
   Reservations "MTLSEC"
   1219 Crescent st., Montreal, QC H3G 1B1
   Metro: Lucien l'Allier / Guy-Concordia
 post_image: meta-free-speech.jpg
-#iscancelled: true
+iscancelled: true
 isevent: true
 ---
