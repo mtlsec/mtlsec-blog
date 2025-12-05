@@ -6,9 +6,9 @@ date_start: 2025-12-13 19:00:00 EST
 #time_start:
 location: | 
   A Confirmer / To Be Confirmed
-  Mtlsec Spécial décembre 2025 
+  Mtlsec Spécial décembre 2025 - voir plus bas
   Nous planifions une rencontre dans un horaire différent le samedi 13 décembre 2025 en soirée. L’emplacement exact au centre-ville sera déterminé selon le nombre de participants.  Veuillez envoyer un courriel à mtlsec-reserve@recon.cx avec le nombre de participant et nous confirmerons les détails durant la semaine
-  Mtlsec December 2025 special
+  Mtlsec December 2025 special - se below
   We are planning a special get together on a different schedule on Saturday December 13th 2025 in the evening. Exact location downtown will be determined based on the number of attendees. 
   Please send an email to mtlsec-reserve@recon.cx with how many people in your party and we will confirm the details via email in the week.
 
@@ -16,3 +16,12 @@ post_image: hacker-santa.jpg
 #iscancelled: true
 isevent: true
 ---
+
+Mtlsec Spécial decembre 2025 
+
+Nous planifions une rencontre dans un horaire différent le samedi 13 décembre 2025 en soirée. L’emplacement exact au centre-ville sera déterminé selon le nombre de participants.  Veuillez envoyer un courriel à mtlsec-reserve@recon.cx avec le nombre de participant et nous confirmerons les détails durant la semaine
+
+Mtlsec December 2025 special
+
+We are planning a special get together on a different schedule on Saturday December 13th 2025 in the evening. Exact location downtown will be determined based on the number of attendees. 
+Please send an email to mtlsec-reserve@recon.cx with how many people in your party and we will confirm the details via email in the week.
