@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Mtlsec 2026-06 (Juin/June)"
+tags: 
+date_start: 2026-06-11 18:00:00 EST
+#time_start:
+location: |
+  Brutopia Brew Pub
+  Reservations "MTLSEC"
+  1219 Crescent st., Montreal, QC H3G 1B1
+  Metro: Lucien l'Allier / Guy-Concordia
+post_image: disregard.jpg
+#iscancelled: true
+isevent: true
+---
